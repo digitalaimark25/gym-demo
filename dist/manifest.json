@@ -1,0 +1,18 @@
+{
+  "name": "Active Fitness Gym Cairo",
+  "short_name": "Active Gym",
+  "description": "Active Fitness Gym Cairo Member App — 24/7 Live Occupancy, Digital Pass & Guest Passes",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
